@@ -49,7 +49,7 @@ This shows that a more sophisticated model isn't always superior; it depends on 
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone <repo-url>
 cd <repo-name>
 pip install -r requirements.txt
 python app.py
